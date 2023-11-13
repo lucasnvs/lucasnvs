@@ -7,9 +7,9 @@
 * 👨‍🎓 Ensino Médio Técnico em Informática - IFSUL (2º ano) 
 * 🎮 Jogador médio de Raze (Valorant) 
 
-* 📚 Atualmente trabalhando em projetos escolares [Spobrefy](https://github.com/lucasnvs/spobrefy) e [Koala's Stocker](https://github.com/lucasnvs/koala-stocker)
+* 🧰 Atualmente trabalhando em projetos escolares [Spobrefy](https://github.com/lucasnvs/spobrefy) e [Koala's Stocker](https://github.com/lucasnvs/koala-stocker)
 
-* Estudando **C++, Kotlin para Android, Algoritmos, Estrutura de Dados**
+* 📚 Estudando **C++, Kotlin para Android, Algoritmos, Estrutura de Dados**
 
 
 ### Tecnologias
