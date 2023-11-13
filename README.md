@@ -1,17 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=771EA9&background=DADADA00&random=false&width=435&lines=Beginner+Developer)](https://git.io/typing-svg)
 
 **Brazil, RS**
+
+  ### Sobre mim: 
+  * 💻 Desenvolvedor de idéias da minha cabeça 
+  * 👨‍🎓 Ensino Médio Técnico em Informática - IFSUL (2º ano) 
+  * 🎮 Jogador médio de Raze (Valorant) 
+  * 🧰 Atualmente trabalhando em projetos escolares [Spobrefy](https://github.com/lucasnvs/spobrefy) e [Koala's Stocker](https://github.com/lucasnvs/koala-stocker)
+  * 📚 Estudando **C++, Kotlin para Android, Algoritmos, Estrutura de Dados**
+
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucasnvs&show_icons=true&theme=radical"><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnvs&langs_count=4&theme=radical"/>
   
-### Sobre mim: 
-* 💻 Desenvolvedor de idéias da minha cabeça 
-* 👨‍🎓 Ensino Médio Técnico em Informática - IFSUL (2º ano) 
-* 🎮 Jogador médio de Raze (Valorant) 
-
-* 🧰 Atualmente trabalhando em projetos escolares [Spobrefy](https://github.com/lucasnvs/spobrefy) e [Koala's Stocker](https://github.com/lucasnvs/koala-stocker)
-
-* 📚 Estudando **C++, Kotlin para Android, Algoritmos, Estrutura de Dados**
-
-
 ### Tecnologias
 <div>
   <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -31,5 +30,3 @@
   <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-0ac97f?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
-
-### Contato
