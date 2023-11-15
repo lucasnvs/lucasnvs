@@ -7,14 +7,13 @@
   * 👨‍🎓 Ensino Médio Técnico em Informática - IFSUL (2º ano) 
   * 🎮 Jogador médio de Raze (Valorant) 
   * 🧰 Atualmente trabalhando em projetos escolares [Spobrefy](https://github.com/lucasnvs/spobrefy) e [Koala's Stocker](https://github.com/lucasnvs/koala-stocker)
-  * 📚 Estudando **C++, Kotlin para Android, Algoritmos, Estrutura de Dados**
+  * 📚 Estudando **PHP, C++, Kotlin para Android, Algoritmos, Estrutura de Dados**
 
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucasnvs&show_icons=true&theme=radical"><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnvs&langs_count=4&theme=radical"/>
   
 ### Tecnologias
 <div>
   <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img align="center" alt="php" src="https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
