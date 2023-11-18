@@ -5,9 +5,8 @@
   ### Sobre mim: 
   * 💻 Desenvolvedor de idéias da minha cabeça 
   * 👨‍🎓 Ensino Médio Técnico em Informática - IFSUL (2º ano) 
-  * 🎮 Jogador médio de Raze (Valorant) 
   * 🧰 Atualmente trabalhando em projetos escolares [Spobrefy](https://github.com/lucasnvs/spobrefy) e [Koala's Stocker](https://github.com/lucasnvs/koala-stocker)
-  * 📚 Estudando **PHP, C++, Kotlin para Android, Algoritmos, Estrutura de Dados**
+  * 📚 Estudando **PHP, Python, Kotlin para Android, Algoritmos, Estrutura de Dados**
 
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucasnvs&show_icons=true&theme=radical"><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnvs&langs_count=4&theme=radical"/>
   
