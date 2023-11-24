@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=700&color=771EA9&background=DADADA00&random=false&width=440&lines=Desenvolvedor+Iniciante)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=700&color=771EA9&background=DADADA00&random=false&width=440&lines=Software+Developer)](https://git.io/typing-svg)
 
 **Brazil, RS**
 
