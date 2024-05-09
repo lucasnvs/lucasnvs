@@ -35,7 +35,16 @@
 
 ### Historicando
 
+<img src="imgs/gifs/historicando.gif" width="100%">
+
 Esse projeto foi um projeto simples de mais ou menos duas semanas do zero ao deploy, feito enquanto eu estudava desenvolvimento Front-End como um trabalho para uma aula de história do meu cólegio. No qual o objetivo era simular um "site de história" onde autores/historiadores publicariam sobre os mais diversos acontecimentos históricos, em formato de post/blog, neste caso como se tratava de um trabalho de Revolução Francesa, o único tema disponível foi o da mesma.
+
+<a href="https://github.com/lucasnvs/historicando">
+  <img src="imgs/buttons/GitProject.svg">
+</a>
+<a href="https://historicando.vercel.app">
+  <img src="imgs/buttons/Deploy.svg">
+</a>
 
 ### Koala's Stocker
 
