@@ -4,7 +4,7 @@
 
   ### Sobre mim: 
   * 💻 Desenvolvedor de idéias da minha cabeça 
-  * 👨‍🎓 Ensino Médio Técnico em Informática - IFSUL (3º ano) 
+  * 👨‍🎓 Cursando Ensino Médio Técnico em Informática - IFSUL (3º ano) 
   * 🧰 Atualmente trabalhando em [Siboon SkateShop](https://github.com/lucasnvs/siboon).
   * 📚 Estudando **PHP, Python, Kotlin para Android, Algoritmos, Estrutura de Dados**
 
@@ -28,3 +28,19 @@
   <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-0ac97f?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
+
+<hr>
+
+# Projetos
+
+### Historicando
+
+Esse projeto foi um projeto simples de mais ou menos duas semanas do zero ao deploy, feito enquanto eu estudava desenvolvimento Front-End como um trabalho para uma aula de história do meu cólegio. No qual o objetivo era simular um "site de história" onde autores/historiadores publicariam sobre os mais diversos acontecimentos históricos, em formato de post/blog, neste caso como se tratava de um trabalho de Revolução Francesa, o único tema disponível foi o da mesma.
+
+### Koala's Stocker
+
+### Cadmo
+* 🔧 Em desenvolvimento...
+
+### Siboon SkateShop
+* 🔧 Em desenvolvimento...
