@@ -48,6 +48,14 @@ Esse projeto foi um projeto simples de mais ou menos duas semanas do zero ao dep
 
 ## Koala's Stocker (2023)
 
+Projeto de Programação Web do segundo ano. A ideia era implementar um mini-sistema onde o usuario pode registrar suas compras de comida, podendo ter um melhor registro de seu estoque de comida.
+
+<img src="imgs/gifs/koala.gif" width="100%">
+
+<a href="https://github.com/lucasnvs/koala-stocker">
+  <img src="imgs/buttons/GitProject.svg">
+</a>
+
 ## Cadmo (2023/2024)
 * 🔧 Em desenvolvimento...
 
