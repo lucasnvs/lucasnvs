@@ -8,7 +8,16 @@
   * 🧰 Atualmente trabalhando em [Siboon SkateShop](https://github.com/lucasnvs/siboon).
   * 📚 Estudando **PHP, Python, Kotlin para Android, Algoritmos, Estrutura de Dados**
 
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucasnvs&show_icons=true&theme=radical"><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnvs&langs_count=4&theme=radical"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lucasnvs&show_icons=true&theme=midnight-purple">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lucasnvs&show_icons=true&theme=buefy">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucasnvs&show_icons=true&theme=buefy">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnvs&langs_count=4&theme=midnight-purple">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnvs&langs_count=4&theme=buefy">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnvs&langs_count=4&theme=buefy"/>
+</picture>
   
 ### Tecnologias
 <div>
