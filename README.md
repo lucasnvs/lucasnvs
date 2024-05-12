@@ -22,6 +22,7 @@
 ### Tecnologias
 <div>
   <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-6586BD?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
