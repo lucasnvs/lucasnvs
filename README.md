@@ -69,5 +69,13 @@ Projeto de Programação Web do segundo ano. A ideia era implementar um mini-sis
 ## Cadmo (2023/2024)
 * 🔧 Em desenvolvimento...
 
+<a href="https://github.com/lucasnvs/cadmo">
+  <img src="imgs/buttons/GitProject.svg">
+</a>
+
 ## Siboon SkateShop (2024)
 * 🔧 Em desenvolvimento...
+
+<a href="https://github.com/lucasnvs/siboon">
+  <img src="imgs/buttons/GitProject.svg">
+</a>
