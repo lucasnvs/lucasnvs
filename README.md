@@ -14,9 +14,9 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucasnvs&show_icons=true&theme=buefy">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnvs&langs_count=4&theme=midnight-purple">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnvs&langs_count=4&theme=buefy">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnvs&langs_count=4&theme=buefy"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnvs&langs_count=5&theme=midnight-purple">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnvs&langs_count=5&theme=buefy">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnvs&langs_count=5&theme=buefy"/>
 </picture>
   
 ### Tecnologias
