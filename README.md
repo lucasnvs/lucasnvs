@@ -6,7 +6,7 @@
   * 💻 Desenvolvedor de idéias da minha cabeça 
   * 👨‍🎓 Cursando Ensino Médio Técnico em Informática - IFSUL (3º ano) 
   * 🧰 Atualmente trabalhando em [Siboon SkateShop](https://github.com/lucasnvs/siboon).
-  * 📚 Estudando **PHP, Python, Kotlin para Android, Algoritmos, Estrutura de Dados**
+  * 📚 Estudando **PHP, Kotlin para Android, Algoritmos, Estrutura de Dados**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lucasnvs&show_icons=true&theme=midnight-purple">
