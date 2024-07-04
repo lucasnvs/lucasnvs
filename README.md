@@ -41,35 +41,3 @@
 </div>
 
 <hr>
-
-# Projetos
-
-## Historicando (2022/2023)
-
-Esse projeto foi um projeto simples de mais ou menos duas semanas do zero ao deploy, feito enquanto eu estudava desenvolvimento Front-End como um trabalho para uma aula de história do meu cólegio. No qual o objetivo era simular um "site de história" onde autores/historiadores publicariam sobre os mais diversos acontecimentos históricos, em formato de post/blog, neste caso como se tratava de um trabalho de Revolução Francesa, o único tema disponível foi o da mesma.
-
-<img src="imgs/gifs/historicando.gif" width="60%">
-
-<a href="https://github.com/lucasnvs/historicando">
-  <img src="imgs/buttons/GitProject.svg">
-</a>
-<a href="https://historicando.vercel.app">
-  <img src="imgs/buttons/Deploy.svg">
-</a>
-
-## Koala's Stocker (2023)
-
-Projeto de Programação Web do segundo ano. A ideia era implementar um mini-sistema onde o usuario pode registrar suas compras de comida, podendo ter um melhor registro de seu estoque de comida.
-
-<img src="imgs/gifs/koala.gif" width="60%">
-
-<a href="https://github.com/lucasnvs/koala-stocker">
-  <img src="imgs/buttons/GitProject.svg">
-</a>
-
-## Siboon SkateShop (2024)
-* 🔧 Em desenvolvimento...
-
-<a href="https://github.com/lucasnvs/siboon">
-  <img src="imgs/buttons/GitProject.svg">
-</a>
