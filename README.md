@@ -4,8 +4,7 @@
 
   ### Sobre mim: 
   * 💻 Desenvolvedor de idéias da minha cabeça 
-  * 👨‍🎓 Cursando Ensino Médio Técnico em Informática - IFSUL (3º ano) 
-  * 🧰 Atualmente trabalhando em **Cave**.
+  * 👨‍🎓 Cursando Ensino Médio Técnico em Informática - IFSUL (4º ano) 
   * 📚 Estudando **Java, Algoritmos, Estrutura de Dados**
 
 <picture>
