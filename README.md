@@ -6,6 +6,7 @@
   * 💻 Desenvolvedor de idéias da minha cabeça 
   * 👨‍🎓 Cursando Ensino Médio Técnico em Informática - IFSUL (4º ano) 
   * 📚 Estudando **Java, Algoritmos, Estrutura de Dados**
+  * Atualmente trabalhando no [Rota CRIC](https://github.com/vzapalowski/projetocric-django)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lucasnvs&show_icons=true&theme=midnight-purple">
