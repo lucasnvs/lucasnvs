@@ -39,5 +39,22 @@
   <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-0ac97f?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
-
 <hr>
+
+### Alguns Projetos que Desenvolvi
+
+| Projeto | README | Status | Tecnologias | Descrição | Autoria |
+|---------|--------|--------|-------------|-----------|---------|
+| 🚀 [rota-cric]() | ❌ Não disponível | ⏳ Em andamento | Python, Django | RotaCRIC | Contribuição |
+| 🚀 [trilho-api]() | ✅ Disponível | ⏳ Em andamento | Java, Spring Boot | API em Spring Boot | Próprio |
+| 🚀 [invite-quiz-app-inf4at]() | ❌ Não disponível | ✅ Finalizado | Kotlin, Android | Aplicativo Android desenvolvido em Kotlin. Foi desenvolvido um quiz como uma brincadeira para convidar um professor de **PDM** (Programação de Dispositivos Móveis) para ser paraninfo da turma na formatura. | Próprio |
+| 🚀 [sis-ifsul]() | ✅ Disponível | Encerrado | PHP, MySQL | Sistema de Integração de Setores. Trabalho de Desenvolvimento de Aplicação da turma INF4-AT 2025. | Próprio |
+| 🚀 [historicando]() | ✅ Disponível | ✅ Finalizado | React, Node.js | Projeto simples feito em React para trabalho escolar. | Próprio |
+| 🚀 [siboon]() | ✅ Disponível | ✅ Finalizado | PHP, MySQL | Trabalho de Programação Web - 3º ANO - Implementação de um Sistema Web E-commerce no padrão MVC. | Próprio |
+| 🚀 [siboon-android]() | ✅ Disponível | ✅ Finalizado | Java, Android | Aplicativo desenvolvido em Java, adaptação mobile da loja imaginária "Siboon SkateShop". | Próprio |
+| 🚀 [chemist]() | ✅ Disponível | ✅ Finalizado | Kotlin | Desenvolvido para a disciplina de Química. Apresenta informações sobre o elemento de número atômico inserido. | Próprio |
+| 🚀 [koala-stocker]() | ✅ Disponível | ✅ Finalizado | PHP, MySQL | Trabalho de Programação Web - JS, HTML, CSS e PHP | Próprio |
+| 🚀 [spobrefy]() | ✅ Disponível | ✅ Finalizado | Java | Trabalho de POO do curso integrado de informática do IFSUL Câmpus Charqueadas. | Próprio |
+| 🚀 [kotlin-tbca-webscrapping]() | ✅ Disponível | ✅ Finalizado | Kotlin | Web Scrapping feito em Kotlin da Tabela Brasileira de Composição de Alimentos. | Próprio |
+| 🚀 [kotlin-summarized-webscrapping]() | ✅ Disponível | ✅ Finalizado | Kotlin | Web Scrapping feito em Kotlin da plataforma Summarized. | Próprio |
+
