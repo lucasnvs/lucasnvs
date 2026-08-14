@@ -3,10 +3,10 @@
 **Brazil, RS**
 
 ## Olá
-- Sou desenvolvedor de software com foco em desenvolvimento backend.
+- Sou desenvolvedor de software com foco em desenvolvimento FullStack.
 - Formado como Técnico em Informática pelo IFSul, onde foram abordadas disciplinas de desenvolvimento de software.
-- No momento estou ingressando no primeiro semestre do curso de Sistemas para Internet no IFSul.
-- Atualmente, sigo criando novos projetos e explorando boas práticas de desenvolvimento, arquitetura e performance.
+- No momento estou matriculado no curso Superior de Tecnologia em Sistemas para Internet no IFSul.
+- Sigo criando novos projetos e explorando boas práticas de desenvolvimento, arquitetura e performance.
 
 ## 🚀 Projetos
 
